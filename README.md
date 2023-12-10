@@ -19,7 +19,6 @@
 
 - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing" target="_blank">RESUME</a></b>
 
-- ⚡ Fun fact - I am creative person and I love nature!
    <hr>
   
  
