@@ -17,6 +17,8 @@
 
 - 📫 How to reach me <b>rs7920657@gmail.com</b>
 
+- 💬 Connect with me through <b><a href="https://www.linkedin.com/in/neha-singh-95665b210/" target="_blank">Linkedin</a></b>
+
 - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing" target="_blank">RESUME</a></b>
 
    <hr>
