@@ -17,7 +17,7 @@
 
 - 📫 How to reach me <b>rs7920657@gmail.com</b>
 
-- 💬 Connect with me through <b><a href="https://www.linkedin.com/in/neha-singh-95665b210/" target="_blank">Linkedin</a></b>
+- 💬 Connect with me through <b><a href="https://www.linkedin.com/in/neha-singh-6650072ba/" target="_blank">Linkedin</a></b>
 
 - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing" target="_blank">RESUME</a></b>
 
@@ -69,7 +69,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/neha-singh-95665b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nehaa1210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neha-singh-6650072ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nehaa1210" height="30" width="40" /></a>
 </p>
 
 
