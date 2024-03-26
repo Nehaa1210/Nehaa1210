@@ -19,7 +19,7 @@
 
 - 💬 Connect with me through <b><a href="https://www.linkedin.com/in/neha-singh-6650072ba/" target="_blank">Linkedin</a></b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1RLQ5DHCjZXJRVNgNAP-eacqKR1JOUXQ1/view?usp=sharing" target="_blank">RESUME</a></b>
 
    <hr>
   
